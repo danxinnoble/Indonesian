@@ -1,0 +1,9 @@
+air: water
+susu: milk
+teh: tea
+copi: coffee
+
+nasi: rice
+nanas: pineapple
+pisang: banana
+goreng: fried

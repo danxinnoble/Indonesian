@@ -1,0 +1,11 @@
+mengajar: to teach
+makan: to eat
+minum: to drink
+tidur: to sleep
+belajar: to study
+berasal: to originate from
+menulis: to write
+membaca: to read
+
+
+bercapa: to chat

@@ -1,0 +1,7 @@
+rumah: house
+rumah kos: boarding house
+jalan: street
+sekolah: school
+aparteman: apartment
+cafe: cafe
+

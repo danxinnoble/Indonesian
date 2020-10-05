@@ -1,0 +1,7 @@
+dosen: professor
+guru: teacher
+teman: friend
+teman kos: house mate
+ibu kos: land lady
+
+

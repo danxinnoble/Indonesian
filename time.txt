@@ -1,0 +1,10 @@
+tahun: year
+bulan: month
+minggu: week
+hari: day
+
+pagi: morning
+siang: afternoon/evening
+
+lalu: last
+
