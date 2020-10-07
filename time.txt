@@ -8,3 +8,4 @@ siang: afternoon/evening
 
 lalu: last
 
+tanggal berapa: which date

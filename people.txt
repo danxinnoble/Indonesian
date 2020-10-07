@@ -4,4 +4,7 @@ teman: friend
 teman kos: house mate
 ibu kos: land lady
 
-
+bapak: father
+ibu: mother
+kakak: older sibling
+adik: younger sibling

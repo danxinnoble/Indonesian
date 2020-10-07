@@ -1,0 +1,4 @@
+warna: color
+putih: white
+hitam: black
+merah: red

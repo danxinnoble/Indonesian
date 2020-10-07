@@ -1,0 +1,26 @@
+satu: 1
+dua: 2
+tiga: 3
+empat: 4
+lima: 5
+enam: 6
+tujuh: 7
+delapan: 8
+sembilan: 9
+sepuluh: 10
+
+
+seratus: 100
+dua ratus: 200
+
+seribu: 1.000
+dua ribu: 2.000
+
+juta: 1.000.000
+
+di atas: below
+di bawah: above
+
+harga: price
+rupiah: Indonesian currency
+dolar: dollar

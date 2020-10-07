@@ -1,2 +1,5 @@
 baik: good
 lumayan: so-so
+
+mahal: expensive
+murah: cheap
