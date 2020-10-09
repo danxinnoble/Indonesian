@@ -3,3 +3,6 @@ lumayan: so-so
 
 mahal: expensive
 murah: cheap
+
+basar: big
+kecil: small

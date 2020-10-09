@@ -1,0 +1,4 @@
+deda: bye
+selamat pagi: good morning
+selamat sore: good afternoon
+

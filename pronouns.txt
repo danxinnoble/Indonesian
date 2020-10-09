@@ -4,3 +4,4 @@ anda: You (formal)
 dia: He/she
 kami: we 
 kita: we (including addressee)
+mereka: they

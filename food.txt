@@ -2,8 +2,10 @@ air: water
 susu: milk
 teh: tea
 copi: coffee
+jus: juice
 
 nasi: rice
 nanas: pineapple
 pisang: banana
 goreng: fried
+
