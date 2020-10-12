@@ -1,0 +1,9 @@
+buku: book
+pensil: pencil
+bolpoin: pen
+laptop: laptop
+
+kelas: class
+
+ilmu komputer: computer science
+

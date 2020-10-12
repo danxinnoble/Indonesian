@@ -9,6 +9,9 @@ delapan: 8
 sembilan: 9
 sepuluh: 10
 
+sembelas: 11
+dua belas: 12
+sembilan belas: 19
 
 seratus: 100
 dua ratus: 200
