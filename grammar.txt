@@ -2,3 +2,4 @@ pertanyaan: question
 
 
 tik-tik: period
+koma: comma

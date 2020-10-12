@@ -7,6 +7,8 @@ teman: friend
 teman kos: house mate
 ibu kos: land lady
 
+keluarga: family
+orang tua: parents
 bapak: father
 ibu: mother
 kakak: older sibling
@@ -15,6 +17,7 @@ anak: child
 om: uncle
 tante: aunte
 kakek: grandfather
+istri: wife
 
 raj: king
 tuhan: lord

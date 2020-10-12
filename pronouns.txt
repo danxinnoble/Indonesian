@@ -1,7 +1,11 @@
-saya: I/me
+saya: I/me (formal/neutral)
+aku: I/me (informal)
 kamu: You (informal)
-anda: You (formal)
+Anda: You (formal)
 dia: He/she
+ia: He/she/it
+
 kami: we 
 kita: we (including addressee)
+kalian: you (plural)
 mereka: they

@@ -1,10 +1,17 @@
+sekarang: now
+
 tahun: year
 bulan: month
 minggu: week
 hari: day
 
 pagi: morning
-siang: afternoon/evening
+siang: afternoon
+sore: late afternoon
+malam: night
+
+jam: hour (o' clock)
+
 
 lalu: last
 

@@ -9,3 +9,6 @@ membaca: to read
 
 mencari: to look for
 bercapa: to chat
+
+punya: to have
+
