@@ -1,2 +1,7 @@
 gaun: dress
 tas: bag
+
+topi: hat
+jaket: coat
+rok: skirt
+

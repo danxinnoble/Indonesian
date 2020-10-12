@@ -12,6 +12,9 @@ ibu: mother
 kakak: older sibling
 adik: younger sibling
 anak: child
+om: uncle
+tante: aunte
+kakek: grandfather
 
 raj: king
 tuhan: lord

@@ -1,1 +1,2 @@
 kucing: cat
+anjing: dog
