@@ -13,3 +13,5 @@ kakak: older sibling
 adik: younger sibling
 anak: child
 
+raj: king
+tuhan: lord
