@@ -5,7 +5,13 @@ copi: coffee
 jus: juice
 
 nasi: rice
+
+buah: fruit
 nanas: pineapple
 pisang: banana
+jeruk: orange
+apel: apple
+
+
 goreng: fried
 

@@ -1,3 +1,6 @@
 tapi: but
 dan: and
 dengan: with
+
+juga: also
+
