@@ -4,6 +4,8 @@ bolpoin: pen
 laptop: laptop
 
 kelas: class
+keluah: to take a university class
 
 ilmu komputer: computer science
-
+teknik kimia: chemical engineering
+sastra: literature

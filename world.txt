@@ -1,0 +1,6 @@
+Irlandia: Ireland
+Uganda: Uganda
+Inggris: England/English
+Jepang: Japan/Japanese
+Jerman: German/Germany
+Korea: Korea
