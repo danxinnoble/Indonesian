@@ -14,9 +14,11 @@ nanas: pineapple
 pisang: banana
 jeruk: orange
 apel: apple
+stroberi: strawberry
 
 kacang: peanut
 kue: cake
+cokelat: chocolate
 
 gula: sugar
 garam: salt

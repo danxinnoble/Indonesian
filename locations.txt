@@ -3,5 +3,16 @@ rumah kos: boarding house
 jalan: street
 sekolah: school
 aparteman: apartment
+bioskop: movie theater
 cafe: cafe
 
+kantin: canteen
+kantor: office
+kantor pos: post office
+
+Irlandia: Ireland
+Uganda: Uganda
+Inggris: England/English
+Jepang: Japan/Japanese
+Jerman: German/Germany
+Korea: Korea

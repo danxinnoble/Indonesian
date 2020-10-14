@@ -6,12 +6,14 @@ belajar: to study
 berasal: to originate from
 menulis: to write
 membaca: to read
-
+bekerja: to work
 
 mau: to want
 suka: to like
 
 pesar: to order
+
+main-main: to mess around with
 
 mencari: to look for
 bercapa: to chat

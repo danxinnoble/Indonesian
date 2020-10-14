@@ -1,3 +1,7 @@
 apa(ka): is it that
 apa: what
+berapa: how much
+siapa: who
+di mana: where
+dari mana: from where
 mengapa: why
