@@ -1,9 +1,12 @@
+minuman: drinks
 air: water
 susu: milk
+es teh: ice tea
 teh: tea
 copi: coffee
 jus: juice
 
+makanan: foods
 nasi: rice
 
 buah: fruit
@@ -12,6 +15,13 @@ pisang: banana
 jeruk: orange
 apel: apple
 
+kacang: peanut
+kue: cake
 
+gula: sugar
+garam: salt
+merica: pepper
+
+manis: sweet
 goreng: fried
 

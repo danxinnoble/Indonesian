@@ -7,8 +7,16 @@ berasal: to originate from
 menulis: to write
 membaca: to read
 
+
+mau: to want
+suka: to like
+
+pesar: to order
+
 mencari: to look for
 bercapa: to chat
+
+berdoa: to pray
 
 punya: to have
 
