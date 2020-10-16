@@ -3,4 +3,4 @@ dan: and
 dengan: with
 
 juga: also
-
+kelao: how about

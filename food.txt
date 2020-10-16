@@ -10,11 +10,13 @@ makanan: foods
 nasi: rice
 
 buah: fruit
+papaya: papaya
 nanas: pineapple
 pisang: banana
 jeruk: orange
 apel: apple
 stroberi: strawberry
+buah naga : dragon fruit
 
 kacang: peanut
 kue: cake
@@ -24,6 +26,9 @@ gula: sugar
 garam: salt
 merica: pepper
 
+sarapan: breakfast
+
 manis: sweet
 goreng: fried
 
+enak: tasty

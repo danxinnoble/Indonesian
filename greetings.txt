@@ -1,4 +1,7 @@
 deda: bye
 selamat pagi: good morning
 selamat sore: good afternoon
+selamat malam: good night
 
+silakan: please
+terima kasih: thank you
