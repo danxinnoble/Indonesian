@@ -23,3 +23,6 @@ berdoa: to pray
 punya: to have
 
 discusi: to discuss
+
+masuk: to enter
+

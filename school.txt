@@ -2,6 +2,7 @@ buku: book
 pensil: pencil
 bolpoin: pen
 laptop: laptop
+surat: a letter
 
 kelas: class
 keluah: to take a university class
@@ -9,3 +10,5 @@ keluah: to take a university class
 ilmu komputer: computer science
 teknik kimia: chemical engineering
 sastra: literature
+kriptografi: cryptography
+biologi: biology
