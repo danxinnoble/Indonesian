@@ -17,12 +17,13 @@ main-main: to mess around with
 
 mencari: to look for
 bercapa: to chat
-
+bicara: to talk
+discusi: to discuss
 berdoa: to pray
+berpika: to think
 
 punya: to have
 
-discusi: to discuss
 
 masuk: to enter
 

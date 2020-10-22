@@ -1,6 +1,13 @@
 tapi: but
+numun: however
 dan: and
 dengan: with
 
+dika: if
+
+jadi: so
+
 juga: also
 kelao: how about
+
+saja: else

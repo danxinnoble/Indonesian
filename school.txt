@@ -4,6 +4,7 @@ bolpoin: pen
 laptop: laptop
 surat: a letter
 
+
 kelas: class
 keluah: to take a university class
 
@@ -12,3 +13,7 @@ teknik kimia: chemical engineering
 sastra: literature
 kriptografi: cryptography
 biologi: biology
+
+
+distersasi: dissertation
+docktor: doctorate (PhD)

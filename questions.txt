@@ -2,6 +2,9 @@ apa(ka): is it that
 apa: what
 berapa: how much
 siapa: who
+ketika: when
 di mana: where
 dari mana: from where
+yang mana: which one
 mengapa: why
+bagaimana: how

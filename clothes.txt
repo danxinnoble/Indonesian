@@ -3,6 +3,8 @@ memakai: to wear
 gaun: dress
 tas: bag
 
+dompet: wallet
+
 topi: hat
 jaket: coat
 rok: skirt

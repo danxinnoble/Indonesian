@@ -1,4 +1,7 @@
 sekarang: now
+segera: soon
+
+
 
 tahun: year
 bulan: month
@@ -12,7 +15,7 @@ malam: night
 
 jam: hour (o' clock)
 
-
+ini: this
 lalu: last
 
 tanggal berapa: which date
