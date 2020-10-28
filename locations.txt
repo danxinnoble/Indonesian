@@ -5,6 +5,7 @@ sekolah: school
 aparteman: apartment
 bioskop: movie theater
 cafe: cafe
+pasar: market
 
 kantin: canteen
 kantor: office

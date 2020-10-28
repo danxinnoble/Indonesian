@@ -8,6 +8,9 @@ menulis: to write
 membaca: to read
 bekerja: to work
 
+datang: to return
+pulang: to go home
+
 mau: to want
 suka: to like
 
