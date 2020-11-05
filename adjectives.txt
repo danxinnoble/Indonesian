@@ -11,3 +11,7 @@ kecil: small
 
 tipis: thin
 tebal: thick
+
+resmi: official
+
+lain: other

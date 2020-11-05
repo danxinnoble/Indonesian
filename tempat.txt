@@ -1,3 +1,5 @@
+tempat: place
+
 rumah: house
 rumah kos: boarding house
 jalan: street
@@ -11,12 +13,21 @@ kantin: canteen
 kantor: office
 kantor pos: post office
 
-negari: country
+negara: country
 asing: foreign
 Irlandia: Ireland
 Uganda: Uganda
-Inggris: England/English
-Jepang: Japan/Japanese
-Jerman: German/Germany
+Inggris: England
+Jepang: Japan
+Jerman: Germany
 Korea: Korea
 Perancis: France
+Amerika: America
+Amerika Serikat: USA
+
+warganegara: citizen
+visa: visa
+
+negara bagian: state
+ibu kota: capital city
+kota: city

@@ -8,25 +8,35 @@ menulis: to write
 membaca: to read
 bekerja: to work
 
+berumur: to have age
+
+pergi: to go
+masuk: to enter
 datang: to return
 pulang: to go home
+
+ikut: to participate in
 
 mau: to want
 suka: to like
 
 pesar: to order
+meminta: to ask for
 
+bermain: to play
 main-main: to mess around with
 
 mencari: to look for
+membeli: to buy
 bercapa: to chat
 bicara: to talk
 discusi: to discuss
 berdoa: to pray
-berpika: to think
+puasa: to fast
+berpikih: to think
+memilih: to choose
 
 punya: to have
 
 
-masuk: to enter
 

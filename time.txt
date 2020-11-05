@@ -1,12 +1,23 @@
 sekarang: now
+sejak: since
 segera: soon
 
+Selin: Monday
+Rabu: Wednesday
 
+Jumat: Friday
+Sabtu: Saturday
+Minggu: Sunday
 
 tahun: year
 bulan: month
 minggu: week
 hari: day
+
+
+kemarin: yesterday
+besok: tomorrow
+besok lalu: the day after tomorrow
 
 pagi: morning
 siang: afternoon
@@ -19,3 +30,8 @@ ini: this
 lalu: last
 
 tanggal berapa: which date
+
+September: September
+Oktober: October
+November: Novemeber
+Desember: December

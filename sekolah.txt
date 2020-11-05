@@ -14,6 +14,8 @@ sastra: literature
 kriptografi: cryptography
 biologi: biology
 
+pendidikan: education
+beasiswa: scholarship
 
 distersasi: dissertation
 docktor: doctorate (PhD)
