@@ -31,3 +31,6 @@ visa: visa
 negara bagian: state
 ibu kota: capital city
 kota: city
+desa: village
+gunung: mountain
+sungai: river

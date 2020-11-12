@@ -6,12 +6,16 @@ lumayan: so-so
 mahal: expensive
 murah: cheap
 
-basar: big
+besar: big
 kecil: small
 
 tipis: thin
 tebal: thick
 
 resmi: official
+
+indah: beautiful
+sepi: quiet
+seru: exciting
 
 lain: other

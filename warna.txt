@@ -3,4 +3,7 @@ warna: color
 putih: white
 hitam: black
 merah: red
-biri: blue
+biru: blue
+hijau: green
+merah muda: pink
+

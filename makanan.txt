@@ -3,7 +3,7 @@ air: water
 susu: milk
 es teh: ice tea
 teh: tea
-copi: coffee
+kopi: coffee
 jus: juice
 
 makanan: foods
@@ -19,6 +19,7 @@ stroberi: strawberry
 buah naga : dragon fruit
 
 kacang: peanut
+selai kacang: peanut butter
 kue: cake
 cokelat: chocolate
 

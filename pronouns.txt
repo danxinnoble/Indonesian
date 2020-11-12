@@ -9,3 +9,5 @@ kami: we
 kita: we (including addressee)
 kalian: you (plural)
 mereka: they
+
+saling: each other

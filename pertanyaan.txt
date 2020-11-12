@@ -3,6 +3,8 @@ apa: what
 berapa: how much
 siapa: who
 ketika: when
+kapan: when
+sampai kapan: until when
 di mana: where
 dari mana: from where
 yang mana: which one

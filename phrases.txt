@@ -1,2 +1,4 @@
 tidak apa-apa: no problem
 lain lain: etc
+
+sama sama: you are welcome

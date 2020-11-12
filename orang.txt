@@ -21,3 +21,5 @@ istri: wife
 
 raj: king
 tuhan: lord
+presiden: president
+pemilu: election

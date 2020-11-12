@@ -10,6 +10,12 @@ bekerja: to work
 
 berumur: to have age
 
+naik : to ride
+menyetir: to drive
+jalan-jalan: to go on a walk
+
+bertemu: to meet
+
 pergi: to go
 masuk: to enter
 datang: to return
@@ -19,6 +25,7 @@ ikut: to participate in
 
 mau: to want
 suka: to like
+akan: will
 
 pesar: to order
 meminta: to ask for
@@ -38,5 +45,4 @@ memilih: to choose
 
 punya: to have
 
-
-
+merencana: to plan

@@ -1,1 +1,3 @@
 lebih: more 
+saja: only
+
