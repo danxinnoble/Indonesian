@@ -2,6 +2,10 @@ tempat: place
 
 rumah: house
 rumah kos: boarding house
+ruang makan: dining room
+dapur: kitchen
+kamar kecil: restroom
+
 jalan: street
 sekolah: school
 aparteman: apartment

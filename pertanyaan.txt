@@ -1,5 +1,6 @@
 apa(ka): is it that
 apa: what
+apa itu X: what is X
 berapa: how much
 siapa: who
 ketika: when
