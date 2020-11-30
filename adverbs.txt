@@ -1,3 +1,4 @@
+setiap: every
 lebih: more 
 saja: only
 

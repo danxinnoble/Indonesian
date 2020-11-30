@@ -33,3 +33,5 @@ manis: sweet
 goreng: fried
 
 enak: tasty
+
+kalkun: turkey

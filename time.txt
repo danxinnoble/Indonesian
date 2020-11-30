@@ -3,8 +3,9 @@ sejak: since
 segera: soon
 
 Selin: Monday
+Selesa: Tuesday
 Rabu: Wednesday
-
+Haris: Thursday
 Jumat: Friday
 Sabtu: Saturday
 Minggu: Sunday

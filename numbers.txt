@@ -21,6 +21,8 @@ dua ribu: 2.000
 
 juta: 1.000.000
 
+pertana: first
+
 di atas: below
 di bawah: above
 
